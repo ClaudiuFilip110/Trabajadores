@@ -1,1 +1,3 @@
 Aici putem tine evidenta schimbarilor care se fac in proiect.
+
+Aici a schimbat Edi ceva
