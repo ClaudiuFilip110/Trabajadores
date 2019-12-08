@@ -1,11 +1,12 @@
 # Trabajadores
- trabajadores repo
 
-------------------------
+#Temp este pentru testing
 
-!!!!!!! Bogdan, Cristi, Dodo, Edi
+Deocamdata in Temp este harta demo a lui Dodo + caracterul meu. 
 
-1. Descarcati GitHub Desktop
-2. Clonati proiectul/ downloadati proiectul pe PC'ul vostru.
-3. Faceti ce schimbari vreti la proiect
-4. Cand dati Pull Request aveti grija sa fiti pe branch'ul development
+1. Descarcati Temp cu Github Desktop
+2. Play around here
+de exemplu:
+   - Bogdan: adauga speech pe langa caracter pe aici
+   - Cristi: incearca sa adaugi meniul sa apara inainte de scena principala
+   - Edi: misca personajul pe aici
