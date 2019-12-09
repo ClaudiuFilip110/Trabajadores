@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   onFixed:
   - {fileID: 11400000, guid: f0869b1b4274208408d260ffef36db8d, type: 2}
-  - {fileID: 11400000, guid: 059c4283bf58c024988c5574e49145f6, type: 2}
+  - {fileID: 11400000, guid: 43a1166c0ea40c54283aa3e0976269bf, type: 2}
   onUpdate: []
   onEnter: []
   onExit: []
