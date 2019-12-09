@@ -20,13 +20,13 @@ MonoBehaviour:
       x: 92
       y: 146
       width: 200
-      height: 100
+      height: 330
     windowTitle: State
     enterNode: 0
     targetNode: 0
     isDuplicate: 0
     comment: 
-    isAssigned: 0
+    isAssigned: 1
     showDescription: 0
     isOnCurrent: 0
     collapse: 0
@@ -34,8 +34,8 @@ MonoBehaviour:
     showEnterExit: 0
     previousCollapse: 0
     stateRef:
-      currentState: {fileID: 0}
-      previousState: {fileID: 0}
+      currentState: {fileID: 11400000, guid: fa444fdc218edb14b89d5662b84aa39d, type: 2}
+      previousState: {fileID: 11400000, guid: fa444fdc218edb14b89d5662b84aa39d, type: 2}
     transRef:
       previousCondition: {fileID: 0}
       transitionId: 0

@@ -10,10 +10,14 @@ namespace SA
     {
         public string targetString;
         public float value;
-
+        public SO.FloatVariable variable;
         public override void Execute()
         {
             value = Input.GetAxis(targetString);
+            if(variable!=null)
+            {
+                variable.value = value;
+            }
         }
     }
 }
