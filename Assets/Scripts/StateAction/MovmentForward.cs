@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 namespace SA
-{[CreateAssetMenu(menuName ="Action/StateAction/MovmentForward")]
+{[CreateAssetMenu(menuName ="Actions/StateAction/MovmentForward")]
     public class MovmentForward : StateActions
     {
         public float movementSpeed = 2;

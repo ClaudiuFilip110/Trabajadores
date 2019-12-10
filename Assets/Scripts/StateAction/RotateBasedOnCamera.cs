@@ -5,14 +5,14 @@ using SO;
 namespace SA
 {
 
-    [CreateAssetMenu(menuName ="Action/State Actions/Rotate Based On Cam Orientation")]
+    [CreateAssetMenu(menuName = "Actions/StateAction/Rotate Based On Camera Orientation")]
     public class RotateBasedOnCamera : StateActions
     {
         public TransformVariable cameraTransform;
         public float speed = 8;
         public override void Execute(StateManager states)
         {
-           if(cameraTransform.value==null)
+            if (cameraTransform.value == null)
             {
                 return;
             }
@@ -25,9 +25,9 @@ namespace SA
             if (targetDir == Vector3.zero)
                 targetDir = states.mTransform.forward;
             Quaternion tr = Quaternion.LookRotation(targetDir);
-            Quaternion targetRotation = Quaternion.Slerp(states.mTransform.rotation, tr, states.delta*states.movmentVariables.moveAmount*speed);
+            Quaternion targetRotation = Quaternion.Slerp(states.mTransform.rotation, tr, states.delta * states.movmentVariables.moveAmount * speed);
             states.mTransform.rotation = targetRotation;
         }
 
     }
-}    
+}

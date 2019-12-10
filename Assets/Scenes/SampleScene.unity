@@ -643,7 +643,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88649c4da2df7ee4f962709ff7fa5665, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  transformVariable: {fileID: 11400000, guid: 1340925a59e6f4a439e2654368f2ea4e, type: 2}
+  transformVariable: {fileID: 11400000, guid: c7caa58785a438c42928fa58a3334f20, type: 2}
 --- !u!1 &645827183
 GameObject:
   m_ObjectHideFlags: 0

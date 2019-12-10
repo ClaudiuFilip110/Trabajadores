@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 namespace SA
-{[CreateAssetMenu(menuName ="Action/Mono Actions/Action Batch ")]
+{[CreateAssetMenu(menuName ="Actions/Mono Actions/Action Batch ")]
     public class ActionBatch : Action
     {
         public Action[] actions;

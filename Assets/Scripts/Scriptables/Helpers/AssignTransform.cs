@@ -12,7 +12,7 @@ namespace SA
 
 		private void OnEnable()
 		{
-			transformVariable.value = this.transform;
+			transformVariable.value= this.transform;
 			Destroy(this);
 		}
 
