@@ -3,32 +3,73 @@ guid: 8a01bc32423e2ed4792aa479f209cffd
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Human
-    100004: Shoes
-    100006: Trousers
-    100008: Tshirt
-    400000: //RootNode
-    400002: Human
-    400004: Shoes
-    400006: Trousers
-    400008: Tshirt
+    100000: Antebrat.L
+    100002: Antebrat.R
+    100004: Armature
+    100006: Bazin.L
+    100008: Bazin.R
+    100010: Biceps.L
+    100012: Biceps.R
+    100014: Cap
+    100016: Cap_end
+    100018: //RootNode
+    100020: Coloana
+    100022: Femur.L
+    100024: Femur.R
+    100026: Human
+    100028: Mana.L
+    100030: Mana.L_end
+    100032: Mana.R
+    100034: Mana.R_end
+    100036: Shoes
+    100038: Tibie.L
+    100040: Tibie.L_end
+    100042: Tibie.R
+    100044: Tibie.R_end
+    100046: Trousers
+    100048: TShirt
+    100050: Umar.L
+    100052: Umar.R
+    400000: Antebrat.L
+    400002: Antebrat.R
+    400004: Armature
+    400006: Bazin.L
+    400008: Bazin.R
+    400010: Biceps.L
+    400012: Biceps.R
+    400014: Cap
+    400016: Cap_end
+    400018: //RootNode
+    400020: Coloana
+    400022: Femur.L
+    400024: Femur.R
+    400026: Human
+    400028: Mana.L
+    400030: Mana.L_end
+    400032: Mana.R
+    400034: Mana.R_end
+    400036: Shoes
+    400038: Tibie.L
+    400040: Tibie.L_end
+    400042: Tibie.R
+    400044: Tibie.R_end
+    400046: Trousers
+    400048: TShirt
+    400050: Umar.L
+    400052: Umar.R
     2100000: No Name
     2100002: Material
     2100004: Material.001
     2100006: Material.002
-    2300000: Human
-    2300002: Shoes
-    2300004: Trousers
-    2300006: Tshirt
-    3300000: Human
-    3300002: Shoes
-    3300004: Trousers
-    3300006: Tshirt
     4300000: Human
-    4300002: Tshirt
+    4300002: TShirt
     4300004: Trousers
     4300006: Shoes
+    9500000: //RootNode
+    13700000: Human
+    13700002: Shoes
+    13700004: Trousers
+    13700006: TShirt
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -81,8 +122,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -109,7 +150,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
