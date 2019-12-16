@@ -82,6 +82,23 @@ ModelImporter:
     100152: Curve.075
     100154: Light
     100156: //RootNode
+    100158: Curve.076
+    100160: Curve.077
+    100162: Curve.078
+    100164: Curve.079
+    100166: Curve.080
+    100168: Curve.081
+    100170: Curve.082
+    100172: Curve.083
+    100174: Curve.084
+    100176: Curve.085
+    100178: Curve.086
+    100180: Curve.087
+    100182: Curve.088
+    100184: Curve.089
+    100186: Curve.090
+    100188: Curve.091
+    100190: Plane
     400000: Camera
     400002: Curve
     400004: Curve.001
@@ -161,6 +178,23 @@ ModelImporter:
     400152: Curve.075
     400154: Light
     400156: //RootNode
+    400158: Curve.076
+    400160: Curve.077
+    400162: Curve.078
+    400164: Curve.079
+    400166: Curve.080
+    400168: Curve.081
+    400170: Curve.082
+    400172: Curve.083
+    400174: Curve.084
+    400176: Curve.085
+    400178: Curve.086
+    400180: Curve.087
+    400182: Curve.088
+    400184: Curve.089
+    400186: Curve.090
+    400188: Curve.091
+    400190: Plane
     2000000: Camera
     2100000: SVGMat.001
     2100002: SVGMat.002
@@ -237,6 +271,26 @@ ModelImporter:
     2100144: SVGMat.074
     2100146: SVGMat.075
     2100148: SVGMat.076
+    2100150: SVGMat.000
+    2100152: SVGMat.073
+    2100154: SVGMat.077
+    2100156: SVGMat.078
+    2100158: SVGMat.079
+    2100160: SVGMat.080
+    2100162: SVGMat.081
+    2100164: SVGMat.082
+    2100166: SVGMat.083
+    2100168: SVGMat.084
+    2100170: SVGMat.085
+    2100172: SVGMat.086
+    2100174: SVGMat.087
+    2100176: SVGMat.088
+    2100178: SVGMat.089
+    2100180: SVGMat.090
+    2100182: SVGMat.092
+    2100184: SVGMat.093
+    2100186: SVGMat.094
+    2100188: No Name
     2300000: Curve
     2300002: Curve.001
     2300004: Curve.002
@@ -313,6 +367,23 @@ ModelImporter:
     2300146: Curve.073
     2300148: Curve.074
     2300150: Curve.075
+    2300152: Curve.076
+    2300154: Curve.077
+    2300156: Curve.078
+    2300158: Curve.079
+    2300160: Curve.080
+    2300162: Curve.081
+    2300164: Curve.082
+    2300166: Curve.083
+    2300168: Curve.084
+    2300170: Curve.085
+    2300172: Curve.086
+    2300174: Curve.087
+    2300176: Curve.088
+    2300178: Curve.089
+    2300180: Curve.090
+    2300182: Curve.091
+    2300184: Plane
     3300000: Curve
     3300002: Curve.001
     3300004: Curve.002
@@ -389,6 +460,23 @@ ModelImporter:
     3300146: Curve.073
     3300148: Curve.074
     3300150: Curve.075
+    3300152: Curve.076
+    3300154: Curve.077
+    3300156: Curve.078
+    3300158: Curve.079
+    3300160: Curve.080
+    3300162: Curve.081
+    3300164: Curve.082
+    3300166: Curve.083
+    3300168: Curve.084
+    3300170: Curve.085
+    3300172: Curve.086
+    3300174: Curve.087
+    3300176: Curve.088
+    3300178: Curve.089
+    3300180: Curve.090
+    3300182: Curve.091
+    3300184: Plane
     4300000: Curve
     4300002: Curve.001
     4300004: Curve.002
@@ -465,6 +553,23 @@ ModelImporter:
     4300146: Curve.073
     4300148: Curve.074
     4300150: Curve.075
+    4300152: Curve.076
+    4300154: Curve.077
+    4300156: Curve.078
+    4300158: Curve.079
+    4300160: Curve.080
+    4300162: Curve.081
+    4300164: Curve.082
+    4300166: Curve.083
+    4300168: Curve.084
+    4300170: Curve.085
+    4300172: Curve.086
+    4300174: Curve.087
+    4300176: Curve.088
+    4300178: Curve.089
+    4300180: Curve.090
+    4300182: Curve.091
+    4300184: Plane
     10800000: Light
     2186277476908879412: ImportLogs
   externalObjects: {}
