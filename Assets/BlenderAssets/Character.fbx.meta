@@ -1,75 +1,221 @@
 fileFormatVersion: 2
 guid: 4df44c2c7ca1b934d8143d2abfa8c840
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: Antebrat.L
-    100002: Antebrat.R
-    100004: Armature
-    100006: Bazin.L
-    100008: Bazin.R
-    100010: Biceps.L
-    100012: Biceps.R
-    100014: Cap
-    100016: Cap_end
-    100018: //RootNode
-    100020: Coloana
-    100022: Femur.L
-    100024: Femur.R
-    100026: Human
-    100028: Mana.L
-    100030: Mana.L_end
-    100032: Mana.R
-    100034: Mana.R_end
-    100036: Shoes
-    100038: Tibie.L
-    100040: Tibie.L_end
-    100042: Tibie.R
-    100044: Tibie.R_end
-    100046: Trousers
-    100048: TShirt
-    100050: Umar.L
-    100052: Umar.R
-    400000: Antebrat.L
-    400002: Antebrat.R
-    400004: Armature
-    400006: Bazin.L
-    400008: Bazin.R
-    400010: Biceps.L
-    400012: Biceps.R
-    400014: Cap
-    400016: Cap_end
-    400018: //RootNode
-    400020: Coloana
-    400022: Femur.L
-    400024: Femur.R
-    400026: Human
-    400028: Mana.L
-    400030: Mana.L_end
-    400032: Mana.R
-    400034: Mana.R_end
-    400036: Shoes
-    400038: Tibie.L
-    400040: Tibie.L_end
-    400042: Tibie.R
-    400044: Tibie.R_end
-    400046: Trousers
-    400048: TShirt
-    400050: Umar.L
-    400052: Umar.R
-    2100000: No Name
-    2100002: Material
-    2100004: Material.001
-    2100006: Material.002
-    4300000: Human
-    4300002: TShirt
-    4300004: Trousers
-    4300006: Shoes
-    9500000: //RootNode
-    13700000: Human
-    13700002: Shoes
-    13700004: Trousers
-    13700006: TShirt
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Antebrat.L
+  - first:
+      1: 100002
+    second: Antebrat.R
+  - first:
+      1: 100004
+    second: Armature
+  - first:
+      1: 100006
+    second: Bazin.L
+  - first:
+      1: 100008
+    second: Bazin.R
+  - first:
+      1: 100010
+    second: Biceps.L
+  - first:
+      1: 100012
+    second: Biceps.R
+  - first:
+      1: 100014
+    second: Cap
+  - first:
+      1: 100016
+    second: Cap_end
+  - first:
+      1: 100018
+    second: //RootNode
+  - first:
+      1: 100020
+    second: Coloana
+  - first:
+      1: 100022
+    second: Femur.L
+  - first:
+      1: 100024
+    second: Femur.R
+  - first:
+      1: 100026
+    second: Human
+  - first:
+      1: 100028
+    second: Mana.L
+  - first:
+      1: 100030
+    second: Mana.L_end
+  - first:
+      1: 100032
+    second: Mana.R
+  - first:
+      1: 100034
+    second: Mana.R_end
+  - first:
+      1: 100036
+    second: Shoes
+  - first:
+      1: 100038
+    second: Tibie.L
+  - first:
+      1: 100040
+    second: Tibie.L_end
+  - first:
+      1: 100042
+    second: Tibie.R
+  - first:
+      1: 100044
+    second: Tibie.R_end
+  - first:
+      1: 100046
+    second: Trousers
+  - first:
+      1: 100048
+    second: TShirt
+  - first:
+      1: 100050
+    second: Umar.L
+  - first:
+      1: 100052
+    second: Umar.R
+  - first:
+      4: 400000
+    second: Antebrat.L
+  - first:
+      4: 400002
+    second: Antebrat.R
+  - first:
+      4: 400004
+    second: Armature
+  - first:
+      4: 400006
+    second: Bazin.L
+  - first:
+      4: 400008
+    second: Bazin.R
+  - first:
+      4: 400010
+    second: Biceps.L
+  - first:
+      4: 400012
+    second: Biceps.R
+  - first:
+      4: 400014
+    second: Cap
+  - first:
+      4: 400016
+    second: Cap_end
+  - first:
+      4: 400018
+    second: //RootNode
+  - first:
+      4: 400020
+    second: Coloana
+  - first:
+      4: 400022
+    second: Femur.L
+  - first:
+      4: 400024
+    second: Femur.R
+  - first:
+      4: 400026
+    second: Human
+  - first:
+      4: 400028
+    second: Mana.L
+  - first:
+      4: 400030
+    second: Mana.L_end
+  - first:
+      4: 400032
+    second: Mana.R
+  - first:
+      4: 400034
+    second: Mana.R_end
+  - first:
+      4: 400036
+    second: Shoes
+  - first:
+      4: 400038
+    second: Tibie.L
+  - first:
+      4: 400040
+    second: Tibie.L_end
+  - first:
+      4: 400042
+    second: Tibie.R
+  - first:
+      4: 400044
+    second: Tibie.R_end
+  - first:
+      4: 400046
+    second: Trousers
+  - first:
+      4: 400048
+    second: TShirt
+  - first:
+      4: 400050
+    second: Umar.L
+  - first:
+      4: 400052
+    second: Umar.R
+  - first:
+      21: 2100000
+    second: No Name
+  - first:
+      21: 2100002
+    second: Material
+  - first:
+      21: 2100004
+    second: Material.001
+  - first:
+      21: 2100006
+    second: Material.002
+  - first:
+      43: 4300000
+    second: Human
+  - first:
+      43: 4300002
+    second: TShirt
+  - first:
+      43: 4300004
+    second: Trousers
+  - first:
+      43: 4300006
+    second: Shoes
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Human
+  - first:
+      137: 13700002
+    second: Shoes
+  - first:
+      137: 13700004
+    second: Trousers
+  - first:
+      137: 13700006
+    second: TShirt
+  - first:
+      74: 334399339385177478
+    second: Armature|Armature.001|Armature|Movement|Armature|Movement
+  - first:
+      74: -7324503766678637748
+    second: Armature|Armature.001|Armature|StandBy|Armature|StandBy
+  - first:
+      74: -2361876282968253071
+    second: Armature|Movement
+  - first:
+      74: 3438924228889838077
+    second: Armature|StandBy
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -97,7 +243,65 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Movement
+      takeName: Armature|Movement
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 84
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|StandBy
+      takeName: Armature|StandBy
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -105,6 +309,7 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -112,18 +317,19 @@ ModelImporter:
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -132,10 +338,11 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -145,6 +352,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0

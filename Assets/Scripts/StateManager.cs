@@ -16,12 +16,14 @@ namespace SA
         [HideInInspector]
         public Transform mTransform;
         [HideInInspector]
-        public new Rigidbody rigidbody; 
-        
+        public new Rigidbody rigidbody;
+        [HideInInspector]
+        public Animator anim;
         private void Start()
         {
             mTransform = this.transform;
             rigidbody = GetComponent<Rigidbody>();
+            anim = GetComponentInChildren<Animator>();
         }
         private void FixedUpdate()
         {
