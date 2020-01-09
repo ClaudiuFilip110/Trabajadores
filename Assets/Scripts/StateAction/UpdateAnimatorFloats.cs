@@ -10,7 +10,7 @@ namespace SA
        
         public override void Execute(StateManager states)
         {
-            ///states.anim.SetFloat("Vertical", states.movmentVariables.moveAmount, 0.2f, states.delta);
+            states.anim.SetFloat("Vertical", states.movmentVariables.moveAmount, 0.2f, states.delta);
             
         }
 

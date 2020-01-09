@@ -30,6 +30,16 @@ ModelImporter:
     100048: TShirt
     100050: Umar.L
     100052: Umar.R
+    100054: Cap_end_end
+    100056: Tibie.L_end_end
+    100058: Tibie.R_end_end
+    100060: Mana.L_end_end
+    100062: Mana.R_end_end
+    100064: Cap_end_end_end
+    100066: Mana.L_end_end_end
+    100068: Mana.R_end_end_end
+    100070: Tibie.L_end_end_end
+    100072: Tibie.R_end_end_end
     400000: Antebrat.L
     400002: Antebrat.R
     400004: Armature
@@ -57,19 +67,36 @@ ModelImporter:
     400048: TShirt
     400050: Umar.L
     400052: Umar.R
+    400054: Cap_end_end
+    400056: Tibie.L_end_end
+    400058: Tibie.R_end_end
+    400060: Mana.L_end_end
+    400062: Mana.R_end_end
+    400064: Cap_end_end_end
+    400066: Mana.L_end_end_end
+    400068: Mana.R_end_end_end
+    400070: Tibie.L_end_end_end
+    400072: Tibie.R_end_end_end
     2100000: No Name
     2100002: Material
     2100004: Material.001
     2100006: Material.002
+    2100008: Material.003
     4300000: Human
     4300002: TShirt
     4300004: Trousers
     4300006: Shoes
+    7400000: Armature|Armature|Armature|Armature.001|Armature|Movement|Armature|Movem
+    7400002: Armature|Armature.001|Armature|Movement|Armature|Movement
+    7400004: Armature|Armature.001|Armature|StandBy|Armature|StandBy
+    7400006: Armature|Movement
+    7400008: Armature|StandBy
     9500000: //RootNode
     13700000: Human
     13700002: Shoes
     13700004: Trousers
     13700006: TShirt
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -97,7 +124,63 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Armature.001|Armature|Movement|Armature|Movement
+      takeName: Armature|Armature.001|Armature|Movement|Armature|Movement
+      firstFrame: 2
+      lastFrame: 84
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature.001|Armature|StandBy|Armature|StandBy
+      takeName: Armature|Armature.001|Armature|StandBy|Armature|StandBy
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []

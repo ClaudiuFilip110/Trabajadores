@@ -16,7 +16,7 @@ namespace SA
         public float minClamp = -35;
         public float maxClamp = 35;
         public RotateAxis targetAxis;
-        public int cv = 0;
+
         public override void Execute()
         {   
            
