@@ -15,7 +15,8 @@ MonoBehaviour:
   onFixed:
   - {fileID: 11400000, guid: f0869b1b4274208408d260ffef36db8d, type: 2}
   - {fileID: 11400000, guid: 983b31e6a4a79224891e288e80409f57, type: 2}
-  onUpdate: []
+  onUpdate:
+  - {fileID: 11400000, guid: 964de0b0fbfe10f4980879d966fd5e1a, type: 2}
   onEnter: []
   onExit: []
   idCount: 0
