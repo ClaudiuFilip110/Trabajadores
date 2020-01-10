@@ -128,7 +128,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Armature|Armature.001|Armature|Movement|Armature|Movement
       takeName: Armature|Armature.001|Armature|Movement|Armature|Movement
-      firstFrame: 2
+      firstFrame: 0
       lastFrame: 84
       wrapMode: 0
       orientationOffsetY: 0
