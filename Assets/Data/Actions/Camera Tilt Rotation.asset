@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetFloat: {fileID: 11400000, guid: 959065b2a6eda6a43baed1984b3342f4, type: 2}
   targetTransform: {fileID: 11400000, guid: 4e6352e879af498449e3900446a890c5, type: 2}
-  angle: -18.349998
+  angle: 19.25
   speed: 9
   negative: 1
   clamp: 1
-  minClamp: -35
+  minClamp: -10
   maxClamp: 35
   targetAxis: 0
