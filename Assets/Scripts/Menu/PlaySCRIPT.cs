@@ -15,4 +15,10 @@ public class PlaySCRIPT : MonoBehaviour
         Application.Quit();
 
     }
+    public Vector3 myCamPos = Vector3.zero;
+
+    void Start()
+    {
+        myCamPos = transform.position;
+    }
 }
