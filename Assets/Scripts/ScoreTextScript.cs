@@ -16,8 +16,12 @@ public class ScoreTextScript : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
-        text.text = "Coins: " + coinAmount.ToString();
+    {   if (coinAmount < 15)
+            text.text = "Coins: " + coinAmount.ToString() + "/15";
+        else
+            text.text = "Felicitari 15/15 ";
+
+
         
     }
 }
