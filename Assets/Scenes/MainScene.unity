@@ -889,13 +889,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 43454812}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -95.56121, y: -46.677784, z: 119.097275}
+  m_LocalRotation: {x: -0, y: -0.022526845, z: -0, w: 0.99974626}
+  m_LocalPosition: {x: -98.55, y: -46.677795, z: 118.42}
   m_LocalScale: {x: 0.2277735, y: 0.2277735, z: 0.2277735}
   m_Children: []
   m_Father: {fileID: 947366547}
   m_RootOrder: 7
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -2.582, z: 0}
 --- !u!1001 &43748067
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1431,13 +1431,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 57403654}
-  m_LocalRotation: {x: -0, y: -0.08566406, z: -0, w: 0.9963241}
-  m_LocalPosition: {x: -90.441216, y: -46.57778, z: 13.357277}
-  m_LocalScale: {x: 0.36068, y: 0.36068, z: 0.36068}
+  m_LocalRotation: {x: -0, y: -0.059127744, z: -0, w: 0.9982504}
+  m_LocalPosition: {x: -93.15, y: -46.57779, z: 12.73}
+  m_LocalScale: {x: 0.27663797, y: 0.27663797, z: 0.27663797}
   m_Children: []
   m_Father: {fileID: 947366547}
   m_RootOrder: 17
-  m_LocalEulerAnglesHint: {x: 0, y: -9.828, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -6.7790003, z: 0}
 --- !u!1 &58300374
 GameObject:
   m_ObjectHideFlags: 0
@@ -5766,7 +5766,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &208447328
@@ -10694,7 +10694,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 215694506}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 70.00879, y: -46.558784, z: 228.18527}
+  m_LocalPosition: {x: 69.31, y: -46.558784, z: 223.67}
   m_LocalScale: {x: 0.28799465, y: 0.28799477, z: 0.28799477}
   m_Children: []
   m_Father: {fileID: 947366547}
@@ -16642,7 +16642,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 248231418}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 18.52879, y: -46.727783, z: 140.23727}
+  m_LocalPosition: {x: 16.41, y: -46.727783, z: 140.36}
   m_LocalScale: {x: 0.28799465, y: 0.28799477, z: 0.28799477}
   m_Children: []
   m_Father: {fileID: 947366547}
@@ -17330,7 +17330,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &269956686
@@ -22841,7 +22841,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 303589427}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 68.488785, y: -46.747784, z: 91.03728}
+  m_LocalPosition: {x: 128.34, y: -46.747784, z: 35.15}
   m_LocalScale: {x: 0.28799465, y: 0.28799477, z: 0.28799477}
   m_Children: []
   m_Father: {fileID: 947366547}
@@ -27740,7 +27740,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 320467457}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -4.0822144, y: -46.727783, z: 237.05728}
+  m_LocalPosition: {x: -6.3214, y: -46.727783, z: 233.9373}
   m_LocalScale: {x: 0.28799465, y: 0.28799477, z: 0.28799477}
   m_Children: []
   m_Father: {fileID: 947366547}
@@ -29727,13 +29727,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0}
+  m_Color: {r: 0.03773582, g: 0.036845826, b: 0.036845826, a: 0}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 0}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -29766,8 +29766,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.5, y: 62}
-  m_SizeDelta: {x: 400, y: 250}
+  m_AnchoredPosition: {x: 15.5, y: 152.8}
+  m_SizeDelta: {x: 600, y: 400}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &370701679
 GameObject:
@@ -34901,7 +34901,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 383521544}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -79.77122, y: -46.73778, z: 110.92728}
+  m_LocalPosition: {x: -80.31999, y: -46.73778, z: 108.65}
   m_LocalScale: {x: 0.28799465, y: 0.28799477, z: 0.28799477}
   m_Children: []
   m_Father: {fileID: 947366547}
@@ -35617,7 +35617,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &420913815
@@ -35651,7 +35651,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Observatorul Astronomic
+  m_Text: 'Observatorul Astronomic
+
+
+
+    Press Q for exit.'
 --- !u!222 &420913816
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -36559,8 +36563,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 449438130}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 14.11879, y: -46.657784, z: -12.132729}
-  m_LocalScale: {x: 0.3492, y: 0.3492, z: 0.3492}
+  m_LocalPosition: {x: 12.42, y: -46.657784, z: -16.4}
+  m_LocalScale: {x: 0.25551662, y: 0.25551662, z: 0.25551662}
   m_Children: []
   m_Father: {fileID: 947366547}
   m_RootOrder: 13
@@ -43154,7 +43158,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 495921563}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -47.70121, y: -46.73778, z: 231.78726}
+  m_LocalPosition: {x: -45.53121, y: -46.73778, z: 226.9773}
   m_LocalScale: {x: 0.28799465, y: 0.28799477, z: 0.28799477}
   m_Children: []
   m_Father: {fileID: 947366547}
@@ -43206,7 +43210,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &503469562
@@ -44115,13 +44119,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 533507747}
-  m_LocalRotation: {x: -0, y: -0.022710027, z: -0, w: 0.9997421}
-  m_LocalPosition: {x: -73.681206, y: -46.73778, z: -16.052727}
-  m_LocalScale: {x: 0.5093899, y: 0.50939, z: 0.5093899}
+  m_LocalRotation: {x: -0.01667444, y: -0.0636648, z: -0.001708051, w: 0.99783057}
+  m_LocalPosition: {x: -77.82, y: -46.62, z: -16.45}
+  m_LocalScale: {x: 0.32356954, y: 0.3235696, z: 0.32356954}
   m_Children: []
   m_Father: {fileID: 947366547}
   m_RootOrder: 27
-  m_LocalEulerAnglesHint: {x: 0, y: -2.6030002, z: 0}
+  m_LocalEulerAnglesHint: {x: -1.9190001, y: -7.3, z: -0.074}
 --- !u!4 &533554039 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 435524, guid: 13066d2cc27d1c144aa886195e71c0d1,
@@ -44897,13 +44901,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 577492046}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5.5587845, y: -46.707783, z: 309.94727}
-  m_LocalScale: {x: 0.4287761, y: 0.4287761, z: 0.4287761}
+  m_LocalRotation: {x: -0, y: 0.02696639, z: -0, w: 0.99963635}
+  m_LocalPosition: {x: 1.08, y: -46.707794, z: 301.01}
+  m_LocalScale: {x: 0.33368212, y: 0.33368212, z: 0.33368212}
   m_Children: []
   m_Father: {fileID: 947366547}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 3.0900002, z: 0}
 --- !u!1 &577700985
 GameObject:
   m_ObjectHideFlags: 0
@@ -45318,13 +45322,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 587281533}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.0825424, y: -46.727783, z: 237.05728}
-  m_LocalScale: {x: 0.49426, y: 0.49426, z: 0.49426}
+  m_LocalRotation: {x: -0, y: 0.034907732, z: -0, w: 0.99939054}
+  m_LocalPosition: {x: -6.3, y: -46.727783, z: 233.93}
+  m_LocalScale: {x: 0.35382098, y: 0.35382098, z: 0.35382098}
   m_Children: []
   m_Father: {fileID: 947366547}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 4.0010004, z: 0}
 --- !u!4 &587464328 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 498786, guid: cc84a7ed9371ee046acb8b2a86978276,
@@ -45431,13 +45435,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 591684577}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -79.77122, y: -46.73778, z: 110.92728}
+  m_LocalRotation: {x: -0, y: -0.031222347, z: -0, w: 0.9995125}
+  m_LocalPosition: {x: -80.31999, y: -46.737793, z: 108.649994}
   m_LocalScale: {x: 0.28675255, y: 0.28675255, z: 0.28675255}
   m_Children: []
   m_Father: {fileID: 947366547}
   m_RootOrder: 8
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -3.578, z: 0}
 --- !u!4 &591720981 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 466852, guid: 65f8a80e9d24c2b4a8878f4c6902f79b,
@@ -47318,7 +47322,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &679017723
@@ -48266,7 +48270,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &715212836
@@ -48300,7 +48304,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Sala Sport
+  m_Text: 'Sala Sport
+
+
+
+
+    Press Q for exit.'
 --- !u!222 &715212837
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -56169,7 +56178,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 200, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &764517825
@@ -56466,7 +56475,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &780083397
@@ -56500,7 +56509,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Corpul C
+  m_Text: 'Corpul C
+
+    Laboratoare FIESC
+
+
+
+    Press Q for exit.'
 --- !u!222 &780083398
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -62443,7 +62458,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 823939961}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14.63121, y: -46.567783, z: 32.377274}
+  m_LocalPosition: {x: -15.74, y: -46.567783, z: 36.63}
   m_LocalScale: {x: 0.28799465, y: 0.28799477, z: 0.28799477}
   m_Children: []
   m_Father: {fileID: 947366547}
@@ -63510,7 +63525,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &892471696
@@ -65206,8 +65221,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 966447838}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 24.978786, y: -46.687782, z: 74.74728}
-  m_LocalScale: {x: 0.38995966, y: 0.38995966, z: 0.38995966}
+  m_LocalPosition: {x: 22.69, y: -46.687782, z: 74.45}
+  m_LocalScale: {x: 0.2282083, y: 0.2282083, z: 0.2282083}
   m_Children: []
   m_Father: {fileID: 947366547}
   m_RootOrder: 21
@@ -65357,8 +65372,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 971866872}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 171.6088, y: -46.727783, z: 109.527275}
-  m_LocalScale: {x: 0.1622034, y: 0.1622034, z: 0.1622034}
+  m_LocalPosition: {x: 169.33, y: -46.727783, z: 100.18}
+  m_LocalScale: {x: 0.23704405, y: 0.23704405, z: 0.23704405}
   m_Children: []
   m_Father: {fileID: 947366547}
   m_RootOrder: 14
@@ -70247,7 +70262,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 984307002}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -73.681206, y: -46.73778, z: -16.052727}
+  m_LocalPosition: {x: -77.82, y: -46.73778, z: -16.45}
   m_LocalScale: {x: 0.28799465, y: 0.28799477, z: 0.28799477}
   m_Children: []
   m_Father: {fileID: 947366547}
@@ -70875,7 +70890,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1011105735
@@ -70909,7 +70924,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Corpul H
+  m_Text: 'Corpul H
+
+
+
+    Press Q for exit.'
 --- !u!222 &1011105736
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -71315,7 +71334,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1023927828
@@ -71349,7 +71368,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Corpul J
+  m_Text: 'Corpul J
+
+    Laborator FIA
+
+
+
+    Press Q for exit.'
 --- !u!222 &1023927829
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -72138,7 +72163,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 200, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1061378538
@@ -73855,7 +73880,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1112745035
@@ -73889,7 +73914,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Corpul E
+  m_Text: "Corpul E\n1.Facultatea de Silvicultur\u0103\n2.Facultatea de Stiinte Economice
+    si Administratie Public\u0103\n3.Facultatea de Istorie si Geografie\n\n\nPress
+    Q for exit."
 --- !u!222 &1112745036
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -78924,7 +78951,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1127221506}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 14.11879, y: -46.657784, z: -12.132729}
+  m_LocalPosition: {x: 12.42, y: -46.657784, z: -16.4}
   m_LocalScale: {x: 0.28799465, y: 0.28799477, z: 0.28799477}
   m_Children: []
   m_Father: {fileID: 947366547}
@@ -79171,10 +79198,11 @@ MonoBehaviour:
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
+    m_HorizontalOverflow: 1
+    m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Corpul D
+  m_Text: "Corpul D\nFacultatea de Inginerie Electric\u0103 si Stiinta Calculatoarelor\n\n\nPress
+    Q for exit."
 --- !u!222 &1147787367
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -79341,8 +79369,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1152342553}
   m_LocalRotation: {x: -0, y: 0.02429478, z: -0, w: 0.99970484}
-  m_LocalPosition: {x: 50.89879, y: -46.71778, z: 27.067276}
-  m_LocalScale: {x: 0.5646, y: 0.5646, z: 0.5646}
+  m_LocalPosition: {x: 51, y: -46.71778, z: 23.87}
+  m_LocalScale: {x: 0.32039356, y: 0.32039356, z: 0.32039356}
   m_Children: []
   m_Father: {fileID: 947366547}
   m_RootOrder: 19
@@ -79387,7 +79415,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1153648893
@@ -79537,7 +79565,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1156148075
@@ -79912,7 +79940,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1170339039
@@ -80129,7 +80157,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1177177397
@@ -80702,7 +80730,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1197659758
@@ -87170,7 +87198,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1247480572}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -38.181213, y: -46.73778, z: -119.42272}
+  m_LocalPosition: {x: -37.83, y: -46.73778, z: -125.07}
   m_LocalScale: {x: 0.28799465, y: 0.28799477, z: 0.28799477}
   m_Children: []
   m_Father: {fileID: 947366547}
@@ -88181,7 +88209,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1286932816
@@ -88215,7 +88243,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Corpul F
+  m_Text: "Corpul F\n Auditorium-ul Joseph Schmidt\n\n\nPress Q for exit."
 --- !u!222 &1286932817
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -88258,7 +88286,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1289025553
@@ -88538,7 +88566,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1306224644
@@ -95243,7 +95271,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1382095647}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 50.89879, y: -46.71778, z: 27.067276}
+  m_LocalPosition: {x: 51, y: -46.71778, z: 23.87}
   m_LocalScale: {x: 0.28799465, y: 0.28799477, z: 0.28799477}
   m_Children: []
   m_Father: {fileID: 947366547}
@@ -95721,7 +95749,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1405140422
@@ -95755,7 +95783,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Cantina
+  m_Text: 'Cantina
+
+
+
+    Press Q for exit.'
 --- !u!222 &1405140423
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -97363,7 +97395,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1483685750
@@ -97703,13 +97735,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1490487484}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -47.70121, y: -46.73778, z: 231.78726}
+  m_LocalRotation: {x: -0, y: -0.030054254, z: -0, w: 0.9995483}
+  m_LocalPosition: {x: -45.53, y: -46.737793, z: 226.97}
   m_LocalScale: {x: 0.29711, y: 0.29711, z: 0.29711}
   m_Children: []
   m_Father: {fileID: 947366547}
   m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -3.4440002, z: 0}
 --- !u!1001 &1491053804
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -99860,7 +99892,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1563703124
@@ -100665,13 +100697,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1585902917}
-  m_LocalRotation: {x: -0, y: -0.0666227, z: -0, w: 0.99777824}
-  m_LocalPosition: {x: -14.63121, y: -46.567783, z: 32.377274}
-  m_LocalScale: {x: 0.5059662, y: 0.5059662, z: 0.5059662}
+  m_LocalRotation: {x: -0, y: -0.07909027, z: -0, w: 0.9968675}
+  m_LocalPosition: {x: -15.74, y: -46.56778, z: 36.63}
+  m_LocalScale: {x: 0.46845385, y: 0.46845385, z: 0.46845385}
   m_Children: []
   m_Father: {fileID: 947366547}
   m_RootOrder: 11
-  m_LocalEulerAnglesHint: {x: 0, y: -7.6400003, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -9.073, z: 0}
 --- !u!1 &1588182011
 GameObject:
   m_ObjectHideFlags: 0
@@ -106237,7 +106269,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1610822447}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -95.56121, y: -46.677784, z: 119.097275}
+  m_LocalPosition: {x: -98.55121, y: -46.677784, z: 118.4273}
   m_LocalScale: {x: 0.28799465, y: 0.28799477, z: 0.28799477}
   m_Children: []
   m_Father: {fileID: 947366547}
@@ -109081,7 +109113,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1707608098
@@ -109115,7 +109147,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Corpul B
+  m_Text: "Corpul B\n1.Facultatea de Inginerie Mecanic\u0103 , Mecatronic\u0103 si
+    Management\n2.Facultatea de Inginerie Alimentar\u0103\n\n\nPress Q for exit."
 --- !u!222 &1707608099
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -109393,7 +109426,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1721441113
@@ -109427,7 +109460,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Caminul studentesc numarul 1
+  m_Text: "C\u0103minul Studentesc Num\u0103rul 1\n\n\nPress Q for exit."
 --- !u!222 &1721441114
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -110074,7 +110107,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1746644628
@@ -115201,7 +115234,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1766031792}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 5.5587845, y: -46.707783, z: 309.94727}
+  m_LocalPosition: {x: 1.0884, y: -46.707783, z: 301.0173}
   m_LocalScale: {x: 0.28799465, y: 0.28799477, z: 0.28799477}
   m_Children: []
   m_Father: {fileID: 947366547}
@@ -115310,7 +115343,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1771509662
@@ -115344,15 +115377,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'Corpul A
-
-
-
-    In cadrul acestui corp sunt urmatoarele facultati :
-
-    1.Faculatea de Litere
-
-    2.Facultatea de Drept'
+  m_Text: "Corpul A\n1.Faculatea de Litere si Stiinte ale Comunic\u0103rii\n2.Facultatea
+    de Drept si Stiinte Administrative\n3.Facultatea de Stiinte ale Educatiei\n\n\n\nPress
+    Q for exit."
 --- !u!222 &1771509663
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -116696,13 +116723,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1821567123}
-  m_LocalRotation: {x: -0, y: 0.027441928, z: -0, w: 0.9996234}
-  m_LocalPosition: {x: 18.52879, y: -46.727783, z: 140.23727}
-  m_LocalScale: {x: 0.30283, y: 0.30283, z: 0.30283}
+  m_LocalRotation: {x: -0, y: 0.021286776, z: -0, w: 0.99977344}
+  m_LocalPosition: {x: 16.41, y: -46.727783, z: 140.36}
+  m_LocalScale: {x: 0.22638662, y: 0.22638662, z: 0.22638662}
   m_Children: []
   m_Father: {fileID: 947366547}
   m_RootOrder: 23
-  m_LocalEulerAnglesHint: {x: 0, y: 3.1450002, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 2.4390001, z: 0}
 --- !u!4 &1830419420 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 494632, guid: b355ae641a13f7e46a7f8dc0af2ae4d9,
@@ -116779,7 +116806,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'Press F for Information.
 
-    Press Q for exit.'
+'
 --- !u!222 &1831283491
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -118702,7 +118729,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1900231910
@@ -118736,7 +118763,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Caminul studentesc numarul 4
+  m_Text: "C\u0103minul Studentesc Num\u0103rul 4\n\n\n\nPress Q for exit."
 --- !u!222 &1900231911
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -123943,7 +123970,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1922108941}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 171.6088, y: -46.727783, z: 109.527275}
+  m_LocalPosition: {x: 169.33, y: -46.727783, z: 100.18}
   m_LocalScale: {x: 0.28799465, y: 0.28799477, z: 0.28799477}
   m_Children: []
   m_Father: {fileID: 947366547}
@@ -124946,7 +124973,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1962872803
@@ -124980,7 +125007,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Corpul G
+  m_Text: "Corpul G\nLaborator de compatibilitate electromagnetic\u0103, FIESC\n\n\nPress
+    Q for exit."
 --- !u!222 &1962872804
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -130007,7 +130035,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1973574673}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -90.441216, y: -46.57778, z: 13.357277}
+  m_LocalPosition: {x: -93.15, y: -46.57778, z: 12.73}
   m_LocalScale: {x: 0.28799465, y: 0.28799477, z: 0.28799477}
   m_Children: []
   m_Father: {fileID: 947366547}
@@ -130469,7 +130497,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1981805501}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -38.181213, y: -46.73778, z: -119.42272}
+  m_LocalPosition: {x: -37.83, y: -46.73778, z: -125.07}
   m_LocalScale: {x: 0.27151498, y: 0.27151498, z: 0.27151498}
   m_Children: []
   m_Father: {fileID: 947366547}
@@ -135931,7 +135959,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2015298341}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 24.978786, y: -46.687782, z: 74.74728}
+  m_LocalPosition: {x: 22.69, y: -46.687782, z: 74.45}
   m_LocalScale: {x: 0.28799465, y: 0.28799477, z: 0.28799477}
   m_Children: []
   m_Father: {fileID: 947366547}
@@ -136774,7 +136802,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2030833633
@@ -136808,7 +136836,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Complex de Natatie
+  m_Text: "Complex de Natatie\n1.Facultatea de Educa\u0163ie Fizic\u0103 \u015Fi Sport\n\n\nPress
+    Q for exit."
 --- !u!222 &2030833634
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -136975,8 +137004,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2039126180}
   m_LocalRotation: {x: -0, y: 0.021040421, z: -0, w: 0.9997787}
-  m_LocalPosition: {x: 69.96879, y: -46.697784, z: 228.15729}
-  m_LocalScale: {x: 0.508, y: 0.508, z: 0.508}
+  m_LocalPosition: {x: 69.31, y: -46.697784, z: 223.67}
+  m_LocalScale: {x: 0.2868168, y: 0.2868168, z: 0.2868168}
   m_Children: []
   m_Father: {fileID: 947366547}
   m_RootOrder: 30
@@ -137238,7 +137267,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2048001449}
   m_LocalRotation: {x: -0, y: 0.008494841, z: -0, w: 0.99996394}
-  m_LocalPosition: {x: 68.488785, y: -46.747784, z: 91.03728}
+  m_LocalPosition: {x: 128.34, y: -46.747784, z: 35.15}
   m_LocalScale: {x: 0.22100212, y: 0.22100209, z: 0.22100212}
   m_Children: []
   m_Father: {fileID: 947366547}
@@ -138078,7 +138107,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 173}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2079916503
@@ -138112,7 +138141,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Caminul studentesc numarul 2
+  m_Text: "C\u0103minul Studentesc Num\u0103rul 2\n\n\n\nPress Q for exit."
 --- !u!222 &2079916504
 CanvasRenderer:
   m_ObjectHideFlags: 0
