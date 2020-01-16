@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+
 public class ChangeMusicVolume : MonoBehaviour
 {
     // Start is called before the first frame update
@@ -12,6 +13,10 @@ public class ChangeMusicVolume : MonoBehaviour
     void Update()
     {
 
+    }
+    public void Mute()
+    {
+        AudioListener.pause = !AudioListener.pause;
     }
 
     
