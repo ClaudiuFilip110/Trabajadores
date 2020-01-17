@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 809b989aa9abcbd468a7b1b99ef19e36
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gretaros
+  fontNames:
+  - Gretaros
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0e1975ef86af90e4f916d41301458196, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
