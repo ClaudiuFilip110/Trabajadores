@@ -15,6 +15,7 @@ public class PauseMenu : MonoBehaviour
     public GameObject pauseCOIN;
     public GameObject pauseMenuUI;
     public GameObject pauseMenuUI2;
+    public int ok = 0;
     // Update is called once per frame
     void Update()
     
@@ -34,13 +35,15 @@ public class PauseMenu : MonoBehaviour
     }
     public void Resume()
     {
+   
         pauseMenuUI.SetActive(false);
         pauseCOIN.SetActive(true);
         Minimap.SetActive(true);
-        EntryNotice.SetActive(true);
+       
         Time.timeScale = 1f;
         GameIsPause = false;
     }
+  
     void Pause()
     {
         EntryNotice.SetActive(false);
@@ -52,7 +55,10 @@ public class PauseMenu : MonoBehaviour
     }
     public void Play()
     {
-        EntryNotice.SetActive(true);
+        if (ok == 0)
+        {
+            EntryNotice.SetActive(true);
+        }
         Minimap.SetActive(true);
         pauseCOIN.SetActive(true);
         pauseMenu.SetActive(false);

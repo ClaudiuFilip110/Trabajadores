@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b4e7a79a9beb7640bc077d8c8b00b4b, type: 3}
   m_Name: Movment Forward
   m_EditorClassIdentifier: 
-  movementSpeed: 15
+  movementSpeed: 40
