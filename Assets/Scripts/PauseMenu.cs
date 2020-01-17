@@ -7,6 +7,7 @@ public class PauseMenu : MonoBehaviour
 {
     // Start is called before the first frame update
     public static bool GameIsPause = false;
+    public GameObject EntryNotice;
     public GameObject pauseMenuCredits;
     public GameObject Caracter;
     public GameObject Minimap;
@@ -36,11 +37,13 @@ public class PauseMenu : MonoBehaviour
         pauseMenuUI.SetActive(false);
         pauseCOIN.SetActive(true);
         Minimap.SetActive(true);
+        EntryNotice.SetActive(true);
         Time.timeScale = 1f;
         GameIsPause = false;
     }
     void Pause()
     {
+        EntryNotice.SetActive(false);
         pauseCOIN.SetActive(false);
         Minimap.SetActive(false);
         pauseMenuUI.SetActive(true);
@@ -49,6 +52,7 @@ public class PauseMenu : MonoBehaviour
     }
     public void Play()
     {
+        EntryNotice.SetActive(true);
         Minimap.SetActive(true);
         pauseCOIN.SetActive(true);
         pauseMenu.SetActive(false);
@@ -56,7 +60,10 @@ public class PauseMenu : MonoBehaviour
         
     }
 
-
+    public void ButtonHere()
+    {
+        EntryNotice.SetActive(false);
+    }
     public void SetSettings()
     {
         pauseMenuUI.SetActive(false);
