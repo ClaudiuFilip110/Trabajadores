@@ -11,7 +11,7 @@ public class Collector : MonoBehaviour
    
     void OnCollisionEnter(Collision collision)
     {
-        panel.gameObject.SetActive(true);
+        panel.gameObject.SetActive(false);
         
         if (collision.collider.tag == "Coin")
         {

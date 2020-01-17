@@ -9,7 +9,7 @@ public class PauseMenu : MonoBehaviour
     public static bool GameIsPause = false;
     public GameObject pauseMenuCredits;
     public GameObject Caracter;
-
+    public GameObject Minimap;
     public GameObject pauseMenu;
     public GameObject pauseCOIN;
     public GameObject pauseMenuUI;
@@ -35,19 +35,21 @@ public class PauseMenu : MonoBehaviour
     {
         pauseMenuUI.SetActive(false);
         pauseCOIN.SetActive(true);
+        Minimap.SetActive(true);
         Time.timeScale = 1f;
         GameIsPause = false;
     }
     void Pause()
     {
         pauseCOIN.SetActive(false);
-
+        Minimap.SetActive(false);
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0f;
         GameIsPause = true;
     }
     public void Play()
     {
+        Minimap.SetActive(true);
         pauseCOIN.SetActive(true);
         pauseMenu.SetActive(false);
        
