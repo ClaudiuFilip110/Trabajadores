@@ -80,6 +80,9 @@ public class PauseMenu : MonoBehaviour
     }
     public void BackToPlay()
     {
+        Minimap.SetActive(false);
+        pauseCOIN.SetActive(false);
+        pauseMenuUI2.SetActive(false);
         pauseMenu.SetActive(true);
         pauseMenuUI.SetActive(false);
         Time.timeScale = 1f;
