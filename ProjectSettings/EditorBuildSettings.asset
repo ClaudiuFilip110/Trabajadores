@@ -5,16 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Meniu.unity
     guid: 996b6f0dae1b94e4584cacdaaab91ec0
   - enabled: 1
     path: Assets/Scenes/MainScene.unity
     guid: 3ece69f407de0624fba08a71d27eab38
   - enabled: 0
-    path: Assets/Scenes/TutorialScene.unity
-    guid: 259de607ad7f9ea45a960c41d972f39f
-  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/Scenes/Settings.unity
     guid: c81de28450d25f94694d3aac506ed926
   m_configObjects: {}
