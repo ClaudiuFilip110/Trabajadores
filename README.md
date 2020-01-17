@@ -1,1 +1,1 @@
-# Salutare, domnul Gherman!
+# Salutare, domnule Gherman!
